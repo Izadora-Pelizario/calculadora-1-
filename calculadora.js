@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-
+console.log ("Calculadora de soma")
 num1 = prompt(input("Digite o primeiro número:"))
 num2 = prompt(input("Digite o segundo número:"))
 
